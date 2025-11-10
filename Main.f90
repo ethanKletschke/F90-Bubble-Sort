@@ -1,4 +1,4 @@
-program bubble_sorting
+program Bubble_Sorting
     implicit none
 
     integer :: in, arr(10)
@@ -56,4 +56,4 @@ contains
             end if
         end do
     end subroutine bubble_sort
-end program bubble_sorting
+end program Bubble_Sorting
